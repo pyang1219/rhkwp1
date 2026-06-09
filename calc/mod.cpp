@@ -2,5 +2,8 @@
 
 int mod(int x, int y)
 {
-	return 6666;
+
+	if (y == 0) return 0;
+	return x % y;	
+
 }
