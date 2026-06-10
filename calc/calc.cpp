@@ -22,6 +22,6 @@ int main()
     printf("입력된 수 x[ %d ] y[ %d ]\n", x, y);
     printf("add[ %d ] sub[ %d ] mul[ %d ] dive[ %d ] mod[ %d ]\n", 10, 6, 16, 4, 0);
         //add(x, y), sub(x, y), mul(x, y), dive(x, y), mod(x, y));
-    //수정 히지
+    //히지
 
 }
