@@ -24,5 +24,4 @@ int main()
         //add(x, y), sub(x, y), mul(x, y), dive(x, y), mod(x, y));
     //수정 히지
 
-
 }
